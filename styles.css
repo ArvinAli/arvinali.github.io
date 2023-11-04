@@ -49,7 +49,7 @@ nav {
 
 /* Hero Section Styles */
 .hero {
-    background-image: url('hero-image.jpg'); /* Replace with your image filename */
+    background-image: url('hero.jpg'); /* Replace with your image filename */
     background-size: cover;
     background-position: center;
     text-align: center;
